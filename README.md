@@ -107,41 +107,7 @@ Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to
   <img src="https://raw.githubusercontent.com/ansulagrawal/aora-app/master/assets/pages/onboarding.png" alt="Onboarding Page">
   <br />
   <br />
-- Sign Up Page:
-  <br />
-  <img src="https://raw.githubusercontent.com/ansulagrawal/aora-app/master/assets/pages/signup.png" alt="Sign Up page">
-  <br />
-  <br />
-- Login Page:
-  <br />
-  <img src="https://raw.githubusercontent.com/ansulagrawal/aora-app/master/assets/pages/login.png" alt="Login Page">
-  <br />
-  <br />
-- Home Page:
-  <br />
-  <img src="https://raw.githubusercontent.com/ansulagrawal/aora-app/master/assets/pages/home.png" alt="Home Page">
-  <br />
-  <br />
-- Profile Page:
-  <br />
-  <img src="https://raw.githubusercontent.com/ansulagrawal/aora-app/master/assets/pages/profile.png" alt="Proflie page">
-  <br />
-  <br />
-- Profile Empty State Page:
-  <br />
-  <img src="https://raw.githubusercontent.com/ansulagrawal/aora-app/master/assets/pages/empty-state.png" alt="Profile Empty State Page">
-  <br />
-  <br />
-- Search Page:
-  <br />
-  <img src="https://raw.githubusercontent.com/ansulagrawal/aora-app/master/assets/pages/search.png" alt="Search Page">
-  <br />
-  <br />
-- Create Page:
-  <br />
-  <img src="https://raw.githubusercontent.com/ansulagrawal/aora-app/master/assets/pages/create.png" alt="Create Page">
-  <br />
-  <br />
+
 
 **Build**
 

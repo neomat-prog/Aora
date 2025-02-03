@@ -12,10 +12,6 @@
   <h3 align="center">Video Sharing App</h3>
 </div>
 
-## <a name="introduction">🤖 Introduction</a>
-
-Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite,
-this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
